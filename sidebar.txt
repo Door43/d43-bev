@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bev:home|Door43 (bev)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bev|d43-bev repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bev/archive/master.zip|d43-bev.zip]]
+
+**Recent Changes**
+{{changes>ns = bev}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bev|Ethnologue data]]
+
